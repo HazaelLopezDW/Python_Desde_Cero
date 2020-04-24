@@ -1,2 +1,2 @@
-#Estos es un comentario ne python
-pritn("Comentarios en Python")
+#Estos es un comentario en python
+print("Comentarios en Python")
