@@ -21,3 +21,27 @@ numero_uno = 2
 numero_dos = 5
 resultado = numero_uno ** numero_dos
 print("El resultado de la Potenciacion es: " + str(resultado))
+print("")
+print("Operador Aritmetico divicion(/)")
+numero_uno = 4
+numero_dos = 2
+resultado = numero_uno / numero_dos
+print("El resultado de la division es: " + str(resultado))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
