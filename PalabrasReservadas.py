@@ -1,4 +1,4 @@
-print = 5
+prInt = 5
 Print = 6
-resultado = print + Print
+resultado = prInt + Print
 print(resultado)
