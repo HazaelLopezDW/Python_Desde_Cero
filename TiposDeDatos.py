@@ -17,3 +17,9 @@ print("")
 print("Tipos de datos String")
 nombre = "Walter Hazael"
 print("El tipo de dato de la variable numero_flotante es: " , type(nombre))
+print("")
+#Tipos de datos Booleano 
+print("Tipos de datos String")
+verdadero_falso = 3 == 3
+print("El tipo de dato de la variable numero_flotante es: " , type(verdadero_falso))
+
