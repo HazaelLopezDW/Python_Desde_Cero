@@ -29,12 +29,16 @@ resultado = numero_uno / numero_dos
 print("El resultado de la division es: " + str(resultado))
 print("")
 print("Operador Aritmetico modulo(%)")
-numero_uno = 10
-numero_dos = 3
+numero_uno = 30
+numero_dos = 8
 resultado = numero_uno % numero_dos
 print("El resultado de el Modulo es: " + str(resultado))
-
-
+print("")
+print("Operador Aritmetico divicion entera(//)")
+numero_uno = 30
+numero_dos = 8
+resultado = numero_uno // numero_dos
+print("El resultado de la divicion entera es: " + str(resultado))
 
 
 
