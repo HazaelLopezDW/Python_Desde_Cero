@@ -8,9 +8,9 @@
 # Mostrar ese mismo numero sulo que en un mensaje
 
 #Primero mostramos el mensaje de que es lo que hace el programa
-print("===================================")
-print("¡¡CONVERTIDOR DE NUMERO A LESTRAS!!")
-print("===================================")
+print("=======================================")
+print("  ¡¡CONVERTIDOR DE NUMERO A LESTRAS!!  ")
+print("=======================================")
 
 numero = int(input("¿Cual es el numero que deseas convertir?: "))
 
