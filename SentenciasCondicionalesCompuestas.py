@@ -15,10 +15,10 @@ biologia = int(input(nombre + " ¿Cual es tu calificación en biologia: "))
 promedio = (matematicas + quimica + biologia)/3
 
 if (promedio >= 6):
-    print('Felicidades ' + nombre + ' "Aprobastes El Curso" con un promedio de:' , promedio)
-    print('Felicidades ' + nombre + ' "Aprobastes El Curso" con un promedio de:' , round(promedio,2))
+    print('Felicidades ' + nombre + ' "Aprobastes El Curso" con un promedio de: ' , promedio)
+    print('Felicidades ' + nombre + ' "Aprobastes El Curso" con un promedio de: ' , round(promedio,2))
 else:
-    print('Felicidades ' + nombre + ' "Aprobastes El Curso" con un promedio de:' + str(promedio))
-    print('Felicidades ' + nombre + ' "Aprobastes El Curso" con un promedio de:' + str(round(promedio,2)))
+    print('Felicidades ' + nombre + ' "Aprobastes El Curso" con un promedio de: ' + str(promedio))
+    print('Felicidades ' + nombre + ' "Aprobastes El Curso" con un promedio de: ' + str(round(promedio,2)))
 
 print("Fin....")
